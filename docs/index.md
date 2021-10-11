@@ -32,6 +32,7 @@ The next screen will be a menu for navigating to the AR star map, the users save
 
 ### Persistent data
 * Their list of saved/favorite constellations.
+* Info about the each saved constellation
 * Their email (If they prefer).
 * Their password (If they prefer).
     
