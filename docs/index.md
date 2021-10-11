@@ -12,7 +12,7 @@ either favorite it, or search wikipedia for info on it.
 * Astronomy teachers for young students
 * Astronomers pocket star map
 
-For each type of intended user, include at least 1 _user story_. A user story is usually just 1 simple sentence (no more than 2 sentences), in the voice of the intended user, stating a specific task that the user performs using the app, and the benefit that will be obtained. The simplest user stories take the form
+
 * Beginners/Hobbyists
   > As a hobbyist with a new interest in Astronomy, I want to use the Augmented reality view of the sky to help me identify constellations.
 
